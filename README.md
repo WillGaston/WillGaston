@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Will Gaston, a first year Computer Science student at the University of New South Wales in Australia.
-- 👀 Welcome to my GitHub, a place where I hope to connect with other developers and showcase previous and current projects.
-- 🌱 I’m currently learning C/C++/JS programming.
-- ⚡ Fun fact: I love reading!
+Hey, I'm **Will Gaston**, a 2nd year CompSci student @ UNSW.
 
-- If you have any enquiries, please don't hesitate to reach out to my email: wsegaston@gmail.com
+My github is a place where I store various personal projects that I'm working on.
+
+Currently, I am learning C++ in my free time, but doing JS/TS, C, Java, Python, PostgreSQL for different courses at University.
